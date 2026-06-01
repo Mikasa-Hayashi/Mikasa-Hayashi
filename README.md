@@ -1,47 +1,73 @@
-# Привет, меня зовут Иван! 👋
+<div align="center">
 
-Я студент 3 курса программной инженерии, специализируюсь на **Machine Learning** и **Backend-разработке**.
-Разрабатываю ML-системы и backend-сервисы: от обработки данных и обучения моделей до интеграции с API и real-time взаимодействием.
+```
+$ whoami
+```
 
----
+# Ivan Maschenko
 
-## 🛠 Стек технологий:
-**ML / Data Science**
-- Python, Pandas, NumPy, Scikit-learn
-- Jupyter, Plotly, Matplotlib, Seaborn
-- YOLO, классические ML-алгоритмы
-- PyTorch (базовый уровень), TensorFlow (базовый уровень)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&width=600&lines=Junior+Python+Backend+Developer%20🐍;Open+to+internships+%26+backend+roles)
 
-**Backend**
-- FastAPI, Django, REST API, WebSocket
-- Pytest, Playwright, Selenium
-- JWT, PostgreSQL, Redis, SQL
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/Hayashi_ID)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ivandenisovich2005@gmail.com)
 
-**Другое**
-- C++, Qt, Java
-- React, React Native
-- Git, Docker, Linux
+
+</div>
 
 ---
 
-## 🌟 Ключевые проекты:
-| Проект | Описание | Технологии |
-|---|---|---|
-| [**Navi**](https://github.com/Mikasa-Hayashi/Navi) | Real-time чат с WebSocket, аутентификацией и хранением сообщений. Поддерживает синхронизацию между вкладками.  | Python, Django, PostgreSQL, React, JWT, WebSocket, REST API |
-| [**fruit-recognition-backend**](https://github.com/Mikasa-Hayashi/fruit-recognition-backend) | ML-сервис для распознавания фруктов на основе YOLO. Предоставляет API для инференса и хранит данные в БД. | Python, FastAPI, YOLO, PostgreSQL, REST API |
-| [**Bitcoin Analysis**](https://github.com/Mikasa-Hayashi/Bitcoin-Analysis) | Анализ временных рядов курса Bitcoin: обработка, визуализация и прогнозирование (ARIMA, ~MAPE 14%). | Python |
-| [**VolgoGid**](https://github.com/Mikasa-Hayashi/VolgoGid) | Мобильное приложение с картой и информацией о культурных объектах. | React Native |
-| [**fruit-recognition-frontend**](https://github.com/Mikasa-Hayashi/fruit-recognition-frontend) | Клиентское приложение с камерой для отправки изображений на backend и отображения результатов распознавания. | React Native
+<div>
+
+> I build reliable backend systems - APIs designed for reliability and maintainability under production load,
+> queues that actually drain, and code that the next developer won't curse.
+> Currently levelling up in distributed systems and async Python.
+
+</div>
 
 ---
 
-## 📫 Контакты
-**E-mail:** ivandenisovich2005@yandex.ru
+## 🛠️ Tech Stack
 
-**Telegram:** https://t.me/Hayashi_ID
+### **Languages**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-**VK:** https://vk.com/ivanmaschenko
+### **Frameworks**
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
 
-**MAX:** https://max.ru/u/f9LHodD0cOIIPaRK8gznwUmlU7ehWxztcP7IRuMfjKnWk-yFAg3bDtNLZ3c
+### **Databases**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+[![Alembic](https://img.shields.io/badge/Alembic-3DDC84?style=for-the-badge&logo=python&logoColor=white)](https://alembic.sqlalchemy.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-**GitHub:** https://github.com/Mikasa-Hayashi
+### **Async & Tasks**
+[![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
+[![aiohttp](https://img.shields.io/badge/aiohttp-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://docs.aiohttp.org/)
+
+### **DevOps & Infra**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![docker-compose](https://img.shields.io/badge/docker--compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+
+
+### **Testing & Tools**
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)](https://playwright.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+---
+
+## 🗂️ Projects
+
+---
+
+## 📡 Currently learning
+[![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryproject.io/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+
+---
+
+
