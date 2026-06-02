@@ -9,7 +9,7 @@ $ whoami
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&width=600&lines=Junior+Python+Backend+Developer%20🐍;Open+to+internships+%26+backend+roles)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/Hayashi_ID)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ivandenisovich2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ivandenisovich2005@yandex.ru)
 
 
 </div>
@@ -18,9 +18,9 @@ $ whoami
 
 <div>
 
-> I build reliable backend systems - APIs designed for reliability and maintainability under production load,
-> queues that actually drain, and code that the next developer won't curse.
-> Currently levelling up in distributed systems and async Python.
+> I build backend applications using Python, focusing on APIs, databases, and real-time systems.\
+> Currently levelling up my skills in FastAPI, asynchronous programming and distributed systems.
+
 
 </div>
 
