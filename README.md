@@ -62,6 +62,24 @@ $ whoami
 
 ## 🗂️ Projects
 
+### 🤖 [Navi](./Navi)
+
+Full-stack real-time chat application with an AI companion. Implements persistent conversations, WebSocket-based messaging, and user authentication. Combines REST API with event-driven real-time communication using Django Channels and Redis.
+
+`Django` `Django REST Framework` `WebSockets` `Redis` `PostgreSQL` `JWT` `Docker` `React`
+
+✔ real-time messaging via WebSocket &nbsp; ✔ persistent chat history &nbsp; ✔ JWT authentication &nbsp; ✔ AI companion integration
+
+---
+
+### 🏛 [Tuda](./Tuda)
+
+Full-stack application for exploring and managing monument data. Includes a REST API backend for structured data access and a frontend client for browsing, searching, and viewing monument details. Supports filtering, pagination, and optimized database queries.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Docker` `React Native`
+
+✔ REST API with filtering & pagination &nbsp; ✔ structured data model &nbsp; ✔ database-driven search system &nbsp; ✔ containerized deployment
+
 ---
 
 ## 📡 Currently learning
