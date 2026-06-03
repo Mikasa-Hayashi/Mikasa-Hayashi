@@ -62,7 +62,7 @@ $ whoami
 
 ## 🗂️ Projects
 
-### 🤖 [Navi](./Navi)
+### 🤖 [Navi](https://github.com/Mikasa-Hayashi/Navi)
 
 Full-stack real-time chat application with an AI companion. Implements persistent conversations, WebSocket-based messaging, and user authentication. Combines REST API with event-driven real-time communication using Django Channels and Redis.
 
@@ -72,7 +72,7 @@ Full-stack real-time chat application with an AI companion. Implements persisten
 
 ---
 
-### 🏛 [Tuda](./Tuda)
+### 🏛 [Tuda](https://github.com/Mikasa-Hayashi/Tuda)
 
 Full-stack application for exploring and managing monument data. Includes a REST API backend for structured data access and a frontend client for browsing, searching, and viewing monument details. Supports filtering, pagination, and optimized database queries.
 
