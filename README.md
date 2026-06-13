@@ -62,6 +62,15 @@ $ whoami
 
 ## 🗂️ Projects
 
+### 🔐 [auth-kit](https://github.com/Mikasa-Hayashi/auth-kit)
+Reusable authentication module for FastAPI projects. Provides JWT access and refresh tokens with rotation, Google OAuth2, Redis-backed rate limiting, and brute-force protection. Install via pip and plug into any FastAPI app in minutes.
+
+`FastAPI` `OAuth2` `Redis` `python-jose`
+
+✔ JWT access + refresh tokens &nbsp; ✔ Google OAuth2 &nbsp; ✔ Redis rate limiting &nbsp; ✔ brute-force protection
+
+---
+
 ### 🤖 [Navi](https://github.com/Mikasa-Hayashi/Navi)
 
 Full-stack real-time chat application with an AI companion. Implements persistent conversations, WebSocket-based messaging, and user authentication. Combines REST API with event-driven real-time communication using Django Channels and Redis.
